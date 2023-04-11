@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 Estudante de Python
 
 
